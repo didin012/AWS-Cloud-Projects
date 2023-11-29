@@ -1,4 +1,4 @@
-# AWS Cloud Projects
+# My AWS Cloud Projects
 
 Rather than purchasing, operating, and maintaining physical data centers and servers you can obtain technology services, such processing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS).
 AWS offers the widest variety of databases that are purpose-built for different types of applications so you can choose the right tool for the job to get the best cost and performance.
