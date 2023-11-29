@@ -1,1 +1,2 @@
-# AWS-Cloud-Projects
+# AWS Cloud Projects
+In this section, it involves the cloud projects I made using Amazon Web Services. I have demonstrated here the step by step procedure on how to make the project from scratch and be able to implement them on the cloud without any problems. As an aspiring cloud engineer I have created this repository so that the future junior Cloud Engineers would be able to access this and view my tutorials and notes that discussed some of the cloud projects I have presented here.
